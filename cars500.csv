@@ -1,0 +1,501 @@
+name;model;price;country;mileage;registration;transmission;power;fueltype;Automat;Benzín;CNG;Diesel;Elektřina;Hybrid;LPG;Ostatní paliva
+Skoda Karoq 1.5 TSI ACT DSG 110 kW;Karoq;773490;Německo;9912;2021;Automat;110;Benzín;1;1;0;0;0;0;0;0
+Skoda Enyaq iV 60 Sportline 132 kW;Enyaq iV;1132490;Francie;1000;2021;Automat;132;Elektřina;1;0;0;0;1;0;0;0
+Skoda Scala 110 kW;Scala;649990;Německo;17233;2020;Manuál;110;Benzín;0;1;0;0;0;0;0;0
+Skoda Superb 147 kW;Superb;1087990;Německo;20544;2021;Automat;147;Diesel;1;0;0;1;0;0;0;0
+Skoda Scala 110 kW;Scala;598490;Německo;8806;2020;Manuál;110;Benzín;0;1;0;0;0;0;0;0
+Skoda Superb 2.0 TSI 4x4 DSG L&K 200 kW;Superb;963990;Německo;2482;2020;Automat;200;Benzín;1;1;0;0;0;0;0;0
+Skoda Kamiq 1.6 TDI Ambition 85 kW;Kamiq;592990;Španělsko;23999;2020;Manuál;85;Diesel;0;0;0;1;0;0;0;0
+Skoda Superb 147 kW;Superb;1035990;Německo;495;2021;Automat;147;Diesel;1;0;0;1;0;0;0;0
+Skoda Kamiq 1.0 TSI Active 85 kW;Kamiq;471490;Německo;1882;2021;Manuál;85;Benzín;0;1;0;0;0;0;0;0
+Skoda Kamiq 1.5 TSI DSG Style 110 kW;Kamiq;608990;Švédsko;14500;2020;Automat;110;Benzín;1;1;0;0;0;0;0;0
+Skoda Scala 1.5 TSI DSG Style 110 kW;Scala;542490;Slovensko;25401;2019;Automat;110;Benzín;1;1;0;0;0;0;0;0
+Skoda Kodiaq 2.0 4x4 DSG RS 176 kW;Kodiaq;1220990;Německo;22600;2020;Automat;176;Diesel;1;0;0;1;0;0;0;0
+Skoda Octavia 150 kW;Octavia;804990;Itálie;2853;2021;Automat;150;Ostatní paliva;1;0;0;0;0;0;0;1
+Skoda Rapid 1.6 TDI DSG 66 kW;Rapid;221990;Německo;132450;2014;Automat;66;Diesel;1;0;0;1;0;0;0;0
+Skoda Scala 110 kW;Scala;649990;Německo;14810;2020;Manuál;110;Benzín;0;1;0;0;0;0;0;0
+Skoda Superb 147 kW;Superb;1047990;Německo;28800;2021;Automat;147;Diesel;1;0;0;1;0;0;0;0
+Skoda Karoq 1.5 TSI ACT DSG 110 kW;Karoq;764990;Francie;500;2021;Automat;110;Benzín;1;1;0;0;0;0;0;0
+Skoda Scala Ambition 110 kW;Scala;726990;Německo;6000;2021;Manuál;110;Benzín;0;1;0;0;0;0;0;0
+Skoda Kodiaq 2.0 TSI ACT 4x4 DSG 140 kW;Kodiaq;1035490;Německo;26525;2020;Automat;140;Benzín;1;1;0;0;0;0;0;0
+Skoda Kodiaq 2.0 4x4 DSG RS 176 kW;Kodiaq;1293990;Německo;23064;2020;Automat;176;Diesel;1;0;0;1;0;0;0;0
+Skoda Karoq 1.5 TSI ACT DSG 110 kW;Karoq;765490;Německo;25319;2021;Automat;110;Benzín;1;1;0;0;0;0;0;0
+Skoda Octavia 1.6 TDI Green Tec Ambition 85 kW;Octavia;393990;Německo;109000;2018;Manuál;85;Diesel;0;0;0;1;0;0;0;0
+Skoda Yeti 1.4 TSI 90 kW;Yeti;343490;Německo;99550;2015;Manuál;90;Benzín;0;1;0;0;0;0;0;0
+Skoda Karoq 1.5 TSI ACT DSG 110 kW;Karoq;685490;Slovensko;20000;2021;Automat;110;Benzín;1;1;0;0;0;0;0;0
+Skoda Karoq 1.5 TSI ACT DSG 110 kW;Karoq;688990;Francie;14440;2020;Automat;110;Benzín;1;1;0;0;0;0;0;0
+Skoda Kodiaq 2.0 TDI DSG 110 kW;Kodiaq;660990;Francie;53540;2018;Automat;110;Diesel;1;0;0;1;0;0;0;0
+Skoda Enyaq iV 60 132 kW;Enyaq iV;967490;Francie;7000;2021;Automat;132;Elektřina;1;0;0;0;1;0;0;0
+Skoda Karoq 1.5 TSI ACT DSG 110 kW;Karoq;765490;Německo;16900;2021;Automat;110;Benzín;1;1;0;0;0;0;0;0
+Skoda Karoq 1.5 TSI ACT DSG Style 110 kW;Karoq;778490;Německo;11000;2021;Automat;110;Benzín;1;1;0;0;0;0;0;0
+Skoda Yeti 1.4 TSI 92 kW;Yeti;407990;Německo;65090;2017;Manuál;92;Benzín;0;1;0;0;0;0;0;0
+Skoda Superb 147 kW;Superb;962990;Švédsko;19800;2021;Automat;147;Diesel;1;0;0;1;0;0;0;0
+Skoda Octavia 110 kW;Octavia;488990;Španělsko;33474;2020;Manuál;110;Benzín;0;1;0;0;0;0;0;0
+Skoda Scala 110 kW;Scala;649990;Německo;11500;2020;Manuál;110;Benzín;0;1;0;0;0;0;0;0
+Skoda Kodiaq 147 kW;Kodiaq;1061990;Německo;22350;2021;Automat;147;Diesel;1;0;0;1;0;0;0;0
+Skoda Fabia 1.4 TDI 77 kW;Fabia;233990;Polsko;95105;2016;Manuál;77;Diesel;0;0;0;1;0;0;0;0
+Skoda Karoq 1.6 TDI SCR 85 kW;Karoq;485990;Francie;53670;2017;Manuál;85;Diesel;0;0;0;1;0;0;0;0
+Skoda Scala 110 kW;Scala;725490;Německo;16503;2021;Manuál;110;Benzín;0;1;0;0;0;0;0;0
+Skoda Kodiaq 2.0 TSI ACT 4x4 DSG Style 140 kW;Kodiaq;963990;Německo;26268;2020;Automat;140;Benzín;1;1;0;0;0;0;0;0
+Skoda Karoq 1.6 TDI SCR DSG 85 kW;Karoq;599990;Francie;23517;2019;Automat;85;Diesel;1;0;0;1;0;0;0;0
+Skoda Kodiaq 2.0 TDI DSG 110 kW;Kodiaq;675990;Francie;41804;2018;Automat;110;Diesel;1;0;0;1;0;0;0;0
+Skoda Karoq 1.5 TSI ACT DSG Ambition 110 kW;Karoq;637990;Francie;8939;2020;Automat;110;Benzín;1;1;0;0;0;0;0;0
+Skoda Scala 1.0 TSI DSG Active 85 kW;Scala;440990;Slovensko;17098;2020;Automat;85;Benzín;1;1;0;0;0;0;0;0
+Skoda Kodiaq 2.0 TSI ACT 4x4 DSG Ambition 140 kW;Kodiaq;1002490;Německo;10714;2021;Automat;140;Benzín;1;1;0;0;0;0;0;0
+Skoda Yeti 1.8 TSI DSG 4x4 Ambition 112 kW;Yeti;238990;Německo;111870;2013;Automat;112;Benzín;1;1;0;0;0;0;0;0
+Skoda Scala 110 kW;Scala;713490;Německo;25170;2021;Manuál;110;Benzín;0;1;0;0;0;0;0;0
+Skoda Scala 110 kW;Scala;742490;Německo;8500;2021;Manuál;110;Benzín;0;1;0;0;0;0;0;0
+Skoda Fabia 1.0 TSI 70 kW;Fabia;265490;Polsko;98977;2018;Manuál;70;Benzín;0;1;0;0;0;0;0;0
+Skoda Superb 147 kW;Superb;1164990;Německo;18261;2021;Automat;147;Diesel;1;0;0;1;0;0;0;0
+Skoda Scala 110 kW;Scala;668990;Německo;15900;2021;Manuál;110;Benzín;0;1;0;0;0;0;0;0
+Skoda Enyaq iV 80 150 kW;Enyaq iV;1233490;Francie;1000;2021;Automat;150;Elektřina;1;0;0;0;1;0;0;0
+Skoda Kodiaq 147 kW;Kodiaq;1097990;Německo;27990;2021;Automat;147;Diesel;1;0;0;1;0;0;0;0
+Skoda Scala 110 kW;Scala;693490;Německo;15443;2021;Manuál;110;Benzín;0;1;0;0;0;0;0;0
+Skoda Superb 1.6 TDI Green Tec Ambition 90 kW;Superb;473490;Německo;71436;2017;Manuál;90;Diesel;0;0;0;1;0;0;0;0
+Skoda Rapid 70 kW;Rapid;271490;Německo;65669;2017;Manuál;70;Benzín;0;1;0;0;0;0;0;0
+Skoda Superb Combi 2.0 TDI Green Tec Business Edition 110 kW;Superb;737490;Francie;19364;2021;Automat;110;Diesel;1;0;0;1;0;0;0;0
+Skoda Kodiaq Style 147 kW;Kodiaq;1267990;Německo;500;2021;Automat;147;Diesel;1;0;0;1;0;0;0;0
+Skoda Fabia 1.0 TSI 70 kW;Fabia;409990;Francie;13268;2021;Automat;70;Benzín;1;1;0;0;0;0;0;0
+Skoda Rapid 1.0 TSI Style 81 kW;Rapid;318490;Německo;117100;2018;Manuál;81;Benzín;0;1;0;0;0;0;0;0
+Skoda Kodiaq 147 kW;Kodiaq;1267990;Německo;500;2021;Automat;147;Diesel;1;0;0;1;0;0;0;0
+Skoda Kodiaq 147 kW;Kodiaq;1084490;Německo;27900;2021;Automat;147;Diesel;1;0;0;1;0;0;0;0
+Skoda Kodiaq 147 kW;Kodiaq;1165490;Německo;250;2021;Automat;147;Diesel;1;0;0;1;0;0;0;0
+Skoda Superb 147 kW;Superb;1087490;Německo;27475;2021;Automat;147;Diesel;1;0;0;1;0;0;0;0
+Skoda Kodiaq 2.0 TSI ACT 4x4 DSG Ambition 140 kW;Kodiaq;996490;Německo;20740;2021;Automat;140;Benzín;1;1;0;0;0;0;0;0
+Skoda Fabia 1.2 TSI 66 kW;Fabia;181490;Polsko;97570;2016;Manuál;66;Benzín;0;1;0;0;0;0;0;0
+Skoda Karoq 1.5 TSI ACT DSG 110 kW;Karoq;829990;Německo;14800;2021;Automat;110;Benzín;1;1;0;0;0;0;0;0
+Skoda Karoq 2.0 TDI SCR 4x4 DSG Style 110 kW;Karoq;932490;Německo;5056;2021;Automat;110;Diesel;1;0;0;1;0;0;0;0
+Skoda Kodiaq 180 kW;Kodiaq;1255490;Německo;5500;2021;Automat;180;Benzín;1;1;0;0;0;0;0;0
+Skoda Octavia 110 kW;Octavia;488990;Španělsko;33474;2020;Manuál;110;Benzín;0;1;0;0;0;0;0;0
+Skoda Karoq 1.0 TSI Ambition 85 kW;Karoq;460990;Francie;60485;2018;Manuál;85;Benzín;0;1;0;0;0;0;0;0
+Skoda Rapid 81 kW;Rapid;244990;Polsko;121616;2017;Manuál;81;Benzín;0;1;0;0;0;0;0;0
+Skoda Rapid 63 kW;Rapid;238990;Německo;112000;2015;Manuál;63;Benzín;0;1;0;0;0;0;0;0
+Skoda Kodiaq 2.0 TDI DSG 110 kW;Kodiaq;777490;Francie;22868;2019;Automat;110;Diesel;1;0;0;1;0;0;0;0
+Skoda Kodiaq 2.0 TSI ACT 4x4 DSG 140 kW;Kodiaq;1035490;Německo;26590;2021;Automat;140;Benzín;1;1;0;0;0;0;0;0
+Skoda Rapid 1.0 TSI Active 70 kW;Rapid;271490;Německo;57500;2019;Manuál;70;Benzín;0;1;0;0;0;0;0;0
+Skoda Enyaq iV 60 132 kW;Enyaq iV;952490;Francie;1000;2021;Automat;132;Elektřina;1;0;0;0;1;0;0;0
+Skoda Scala 110 kW;Scala;657490;Německo;5000;2021;Manuál;110;Benzín;0;1;0;0;0;0;0;0
+Skoda Octavia 2.0 TDI 4x4 110 kW;Octavia;360490;Francie;109155;2018;Manuál;110;Diesel;0;0;0;1;0;0;0;0
+Skoda Octavia 2.0 TDI DSG RS 135 kW;Octavia;520990;Německo;97000;2017;Automat;135;Diesel;1;0;0;1;0;0;0;0
+Skoda Fabia 81 kW;Fabia;469490;Německo;14900;2021;Manuál;81;Benzín;0;1;0;0;0;0;0;0
+Skoda Scala 110 kW;Scala;714490;Německo;14000;2021;Manuál;110;Benzín;0;1;0;0;0;0;0;0
+Skoda Rapid 1.0 TSI Green Tec Drive 82 kW;Rapid;292490;Švédsko;71000;2018;Manuál;82;Benzín;0;1;0;0;0;0;0;0
+Skoda Superb 140 kW;Superb;659490;Švédsko;70000;2019;Automat;140;Diesel;1;0;0;1;0;0;0;0
+Skoda Yeti 1.4 TSI Green Tec Adventure 90 kW;Yeti;372990;Německo;98000;2015;Manuál;90;Benzín;0;1;0;0;0;0;0;0
+Skoda Superb 1.5 TSI ACT DSG Ambition 110 kW;Superb;815990;Německo;20900;2021;Automat;110;Benzín;1;1;0;0;0;0;0;0
+Skoda Kodiaq 180 kW;Kodiaq;1381490;Lucembursko;5000;2021;Automat;180;Benzín;1;1;0;0;0;0;0;0
+Skoda Citigo 1.0 MPI Ambition 44 kW;Citigo;172990;Francie;73073;2017;Manuál;44;Benzín;0;1;0;0;0;0;0;0
+Skoda Octavia 1.6 TDI Green Tec 85 kW;Octavia;485990;Francie;64929;2020;Manuál;85;Diesel;0;0;0;1;0;0;0;0
+Skoda Superb Combi 2.0 TDI Green Tec Business Edition 110 kW;Superb;787490;Francie;33020;2020;Automat;110;Diesel;1;0;0;1;0;0;0;0
+Skoda Kodiaq 147 kW;Kodiaq;1164990;Německo;15206;2021;Automat;147;Diesel;1;0;0;1;0;0;0;0
+Skoda Enyaq iV 60 132 kW;Enyaq iV;992990;Francie;3006;2021;Automat;132;Elektřina;1;0;0;0;1;0;0;0
+Skoda Kodiaq 2.0 TDI 4x4 DSG Style 140 kW;Kodiaq;1076990;Německo;22000;2020;Automat;140;Diesel;1;0;0;1;0;0;0;0
+Skoda Superb 110 kW;Superb;688990;Francie;2424;2020;Automat;110;Diesel;1;0;0;1;0;0;0;0
+Skoda Karoq 1.0 TSI Ambition 85 kW;Karoq;467990;Švédsko;55720;2018;Manuál;85;Benzín;0;1;0;0;0;0;0;0
+Skoda Yeti 1.2 TSI Active 77 kW;Yeti;262990;Německo;88455;2014;Manuál;77;Benzín;0;1;0;0;0;0;0;0
+Skoda Citigo 1.0 MPI 44 kW;Citigo;189990;Francie;47500;2017;Manuál;44;Benzín;0;1;0;0;0;0;0;0
+Skoda Scala Ambition 110 kW;Scala;520990;Německo;25800;2020;Manuál;110;Benzín;0;1;0;0;0;0;0;0
+Skoda Citigo 1.0 MPI 44 kW;Citigo;209490;Německo;61526;2017;Manuál;44;Benzín;0;1;0;0;0;0;0;0
+Skoda Scala 110 kW;Scala;673490;Německo;6338;2021;Manuál;110;Benzín;0;1;0;0;0;0;0;0
+Skoda Scala 110 kW;Scala;533990;Německo;10000;2020;Manuál;110;Benzín;0;1;0;0;0;0;0;0
+Skoda Scala Style 110 kW;Scala;675490;Německo;7980;2020;Manuál;110;Benzín;0;1;0;0;0;0;0;0
+Skoda Superb 2.0 TSI 4x4 DSG L&K 200 kW;Superb;963990;Německo;2482;2020;Automat;200;Benzín;1;1;0;0;0;0;0;0
+Skoda Kodiaq 2.0 TSI ACT 4x4 DSG 140 kW;Kodiaq;984490;Německo;13600;2021;Automat;140;Benzín;1;1;0;0;0;0;0;0
+Skoda Scala 1.0 TSI Ambition 70 kW;Scala;463490;Španělsko;11396;2021;Manuál;70;Benzín;0;1;0;0;0;0;0;0
+Skoda Kodiaq 2.0 TDI DSG Style 110 kW;Kodiaq;914490;Francie;14832;2021;Automat;110;Diesel;1;0;0;1;0;0;0;0
+Skoda Karoq 2.0 TDI SCR 110 kW;Karoq;739990;Německo;38266;2021;Manuál;110;Diesel;0;0;0;1;0;0;0;0
+Skoda Superb 206 kW;Superb;745990;Belgie;44200;2018;Automat;206;Benzín;1;1;0;0;0;0;0;0
+Skoda Rapid 1.2 TSI 77 kW;Rapid;214490;Německo;77000;2013;Manuál;77;Benzín;0;1;0;0;0;0;0;0
+Skoda Kodiaq 147 kW;Kodiaq;996490;Německo;46400;2021;Automat;147;Diesel;1;0;0;1;0;0;0;0
+Skoda Superb 2.0 TSI 4x4 DSG L&K 200 kW;Superb;1060990;Německo;21108;2021;Automat;200;Benzín;1;1;0;0;0;0;0;0
+Skoda Karoq 1.0 TSI Ambition 85 kW;Karoq;463490;Švédsko;39840;2018;Manuál;85;Benzín;0;1;0;0;0;0;0;0
+Skoda Octavia 2.0 TSI DSG Style 140 kW;Octavia;574990;Německo;81150;2019;Automat;140;Benzín;1;1;0;0;0;0;0;0
+Skoda Fabia 81 kW;Fabia;407990;Francie;4936;2021;Manuál;81;Benzín;0;1;0;0;0;0;0;0
+Skoda Karoq 1.5 TSI ACT DSG Style 110 kW;Karoq;801990;Německo;11359;2021;Automat;110;Benzín;1;1;0;0;0;0;0;0
+Skoda Scala 110 kW;Scala;674490;Německo;21460;2021;Manuál;110;Benzín;0;1;0;0;0;0;0;0
+Skoda Scala 110 kW;Scala;663490;Německo;15300;2020;Manuál;110;Benzín;0;1;0;0;0;0;0;0
+Skoda Superb 2.0 TDI Tec Ambition 110 kW;Superb;894490;Německo;27269;2021;Automat;110;Diesel;1;0;0;1;0;0;0;0
+Skoda Kodiaq 1.5 TSI ACT DSG 110 kW;Kodiaq;956490;Německo;6000;2021;Automat;110;Benzín;1;1;0;0;0;0;0;0
+Skoda Karoq 1.0 TSI Ambition 85 kW;Karoq;467990;Švédsko;59310;2018;Manuál;85;Benzín;0;1;0;0;0;0;0;0
+Skoda Octavia 2.0 TSI 4x4 DSG Style 140 kW;Octavia;787990;Německo;9331;2020;Automat;140;Benzín;1;1;0;0;0;0;0;0
+Skoda Scala 110 kW;Scala;675490;Německo;13200;2020;Manuál;110;Benzín;0;1;0;0;0;0;0;0
+Skoda Kodiaq 147 kW;Kodiaq;1033490;Německo;28065;2021;Automat;147;Diesel;1;0;0;1;0;0;0;0
+Skoda Kodiaq 2.0 4x4 DSG RS 176 kW;Kodiaq;1327990;Belgie;29142;2020;Automat;176;Diesel;1;0;0;1;0;0;0;0
+Skoda Kodiaq 180 kW;Kodiaq;1396490;Německo;2000;2021;Automat;180;Benzín;1;1;0;0;0;0;0;0
+Skoda Kodiaq 147 kW;Kodiaq;1144990;Německo;4500;2021;Automat;147;Diesel;1;0;0;1;0;0;0;0
+Skoda Scala 1.0 TSI 81 kW;Scala;533490;Německo;20715;2021;Manuál;81;Benzín;0;1;0;0;0;0;0;0
+Skoda Scala 110 kW;Scala;613990;Německo;18192;2020;Manuál;110;Benzín;0;1;0;0;0;0;0;0
+Skoda Superb 2.0 TDI Active 110 kW;Superb;407990;Španělsko;126900;2018;Manuál;110;Diesel;0;0;0;1;0;0;0;0
+Skoda Superb 147 kW;Superb;1051990;Německo;28990;2021;Automat;147;Diesel;1;0;0;1;0;0;0;0
+Skoda Scala Ambition 110 kW;Scala;520990;Německo;15890;2020;Manuál;110;Benzín;0;1;0;0;0;0;0;0
+Skoda Scala 110 kW;Scala;609990;Německo;6000;2020;Manuál;110;Benzín;0;1;0;0;0;0;0;0
+Skoda Rapid 1.2 TSI Green Tec Style 82 kW;Rapid;252490;Švédsko;83670;2016;Manuál;82;Benzín;0;1;0;0;0;0;0;0
+Skoda Rapid 85 kW;Rapid;258490;Polsko;113345;2017;Manuál;85;Diesel;0;0;0;1;0;0;0;0
+Skoda Scala Ambition 110 kW;Scala;513490;Německo;24800;2020;Manuál;110;Benzín;0;1;0;0;0;0;0;0
+Skoda Scala Style 110 kW;Scala;559990;Německo;23190;2020;Manuál;110;Benzín;0;1;0;0;0;0;0;0
+Skoda Kodiaq 2.0 4x4 DSG RS 176 kW;Kodiaq;1245990;Německo;31990;2020;Automat;176;Diesel;1;0;0;1;0;0;0;0
+Skoda Karoq 2.0 TDI SCR 4x4 DSG Scout 140 kW;Karoq;857490;Německo;24900;2019;Automat;140;Diesel;1;0;0;1;0;0;0;0
+Skoda Scala 1.0 TSI DSG 85 kW;Scala;546490;Německo;2500;2020;Automat;85;Benzín;1;1;0;0;0;0;0;0
+Skoda Scala 110 kW;Scala;572490;Německo;9999;2021;Manuál;110;Benzín;0;1;0;0;0;0;0;0
+Skoda Kodiaq 2.0 TSI ACT 4x4 DSG 140 kW;Kodiaq;1022990;Německo;26800;2021;Automat;140;Benzín;1;1;0;0;0;0;0;0
+Skoda Rapid 63 kW;Rapid;211990;Německo;85000;2015;Manuál;63;Benzín;0;1;0;0;0;0;0;0
+Skoda Rapid 1.2 TSI Tec 77 kW;Rapid;236490;Belgie;95000;2016;Manuál;77;Benzín;0;1;0;0;0;0;0;0
+Skoda Kamiq 1.0 TSI Active 70 kW;Kamiq;409990;Francie;10000;2021;Manuál;70;Benzín;0;1;0;0;0;0;0;0
+Skoda Kodiaq 2.0 TDI 4x4 DSG Ambition 110 kW;Kodiaq;625990;Itálie;76000;2019;Automat;110;Diesel;1;0;0;1;0;0;0;0
+Skoda Citigo 1.0 MPI Tec 44 kW;Citigo;250490;Francie;15347;2019;Manuál;44;Benzín;0;1;0;0;0;0;0;0
+Skoda Citigo 1.0 MPI Clever 44 kW;Citigo;226490;Francie;39549;2018;Manuál;44;Benzín;0;1;0;0;0;0;0;0
+Skoda Scala 110 kW;Scala;572490;Německo;5000;2020;Manuál;110;Benzín;0;1;0;0;0;0;0;0
+Skoda Octavia 2.0l TDI DSG 4x4 147 kW;Octavia;1035990;Německo;28000;2021;Automat;147;Diesel;1;0;0;1;0;0;0;0
+Skoda Karoq 1.5 TSI ACT 110 kW;Karoq;523990;Francie;62744;2018;Manuál;110;Benzín;0;1;0;0;0;0;0;0
+Skoda Karoq 1.5 TSI ACT DSG 110 kW;Karoq;817990;Lucembursko;2000;2021;Automat;110;Benzín;1;1;0;0;0;0;0;0
+Skoda Fabia 1.2 TSI Joy 81 kW;Fabia;238490;Německo;111115;2016;Manuál;81;Benzín;0;1;0;0;0;0;0;0
+Skoda Kodiaq 2.0 4x4 DSG RS 177 kW;Kodiaq;1264990;Německo;31418;2020;Automat;177;Diesel;1;0;0;1;0;0;0;0
+Skoda Fabia 1.0 TSI Tec Style 82 kW;Fabia;380990;Švédsko;38780;2019;Automat;82;Benzín;1;1;0;0;0;0;0;0
+Skoda Citigo 1.0 MPI 44 kW;Citigo;197490;Francie;39980;2017;Manuál;44;Benzín;0;1;0;0;0;0;0;0
+Skoda Kamiq 1.5 TSI DSG 110 kW;Kamiq;719490;Německo;6000;2021;Automat;110;Benzín;1;1;0;0;0;0;0;0
+Skoda Kodiaq 147 kW;Kodiaq;1060990;Německo;25999;2021;Automat;147;Diesel;1;0;0;1;0;0;0;0
+Skoda Yeti 2.0 TDI 81 kW;Yeti;275490;Německo;128000;2013;Manuál;81;Diesel;0;0;0;1;0;0;0;0
+Skoda Superb 110 kW;Superb;727490;Německo;24425;2020;Manuál;110;Diesel;0;0;0;1;0;0;0;0
+Skoda Karoq 1.5 TSI ACT DSG 110 kW;Karoq;765990;Německo;7500;2021;Automat;110;Benzín;1;1;0;0;0;0;0;0
+Skoda Octavia 2.0 TDI Tec Business 110 kW;Octavia;536990;Francie;55471;2019;Automat;110;Diesel;1;0;0;1;0;0;0;0
+Skoda Superb 2.0 TDI DSG Active 110 kW;Superb;433490;Španělsko;128600;2018;Automat;110;Diesel;1;0;0;1;0;0;0;0
+Skoda Citigo 1.0 MPI Active 55 kW;Citigo;141490;Německo;118000;2015;Manuál;55;Benzín;0;1;0;0;0;0;0;0
+Skoda Citigo 1.0 MPI Clever 55 kW;Citigo;201990;Francie;71878;2018;Manuál;55;Benzín;0;1;0;0;0;0;0;0
+Skoda Yeti 1.2 TSI Ambition 77 kW;Yeti;214490;Německo;91500;2013;Manuál;77;Benzín;0;1;0;0;0;0;0;0
+Skoda Fabia 1.0 TSI Monte Carlo 70 kW;Fabia;348490;Francie;9978;2021;Manuál;70;Benzín;0;1;0;0;0;0;0;0
+Skoda Octavia 110 kW;Octavia;838490;Německo;21500;2021;Automat;110;Diesel;1;0;0;1;0;0;0;0
+Skoda Scala 1.0 TSI DSG Ambition 81 kW;Scala;496490;Španělsko;15000;2021;Automat;81;Benzín;1;1;0;0;0;0;0;0
+Skoda Karoq 1.0 TSI 85 kW;Karoq;438990;Švédsko;82000;2018;Manuál;85;Benzín;0;1;0;0;0;0;0;0
+Skoda Superb 110 kW;Superb;759990;Francie;14273;2021;Automat;110;Diesel;1;0;0;1;0;0;0;0
+Skoda Kodiaq 180 kW;Kodiaq;1447490;Německo;1966;2021;Automat;180;Benzín;1;1;0;0;0;0;0;0
+Skoda Scala 110 kW;Scala;513490;Německo;13800;2020;Manuál;110;Benzín;0;1;0;0;0;0;0;0
+Skoda Karoq 1.0 TSI Ambition 85 kW;Karoq;489990;Švédsko;12780;2019;Manuál;85;Benzín;0;1;0;0;0;0;0;0
+Skoda Scala 110 kW;Scala;649990;Německo;12800;2020;Manuál;110;Benzín;0;1;0;0;0;0;0;0
+Skoda Kodiaq 2.0 TSI ACT 4x4 DSG 140 kW;Kodiaq;996490;Německo;26346;2021;Automat;140;Benzín;1;1;0;0;0;0;0;0
+Skoda Superb 147 kW;Superb;1138990;Německo;19610;2021;Automat;147;Diesel;1;0;0;1;0;0;0;0
+Skoda Octavia TDI 85 kW;Octavia;646990;Německo;9427;2021;Manuál;85;Diesel;0;0;0;1;0;0;0;0
+Skoda Kodiaq 2.0 TSI ACT 4x4 DSG Style 140 kW;Kodiaq;1022490;Německo;4255;2021;Automat;140;Benzín;1;1;0;0;0;0;0;0
+Skoda Fabia 1.0 TSI 70 kW;Fabia;425490;Francie;6806;2021;Automat;70;Benzín;1;1;0;0;0;0;0;0
+Skoda Superb 147 kW;Superb;1133990;Německo;17600;2020;Automat;147;Diesel;1;0;0;1;0;0;0;0
+Skoda Superb 1.4 TSI IV 160 kW;Superb;787990;Francie;11540;2021;Automat;160;Hybrid;1;0;0;0;0;1;0;0
+Skoda Yeti 1.2 TSI Active PLUS EDITION 77 kW;Yeti;189990;Německo;160000;2013;Manuál;77;Benzín;0;1;0;0;0;0;0;0
+Skoda Kodiaq 147 kW;Kodiaq;1110990;Německo;24050;2021;Automat;147;Diesel;1;0;0;1;0;0;0;0
+Skoda Scala 110 kW;Scala;721490;Německo;6000;2021;Manuál;110;Benzín;0;1;0;0;0;0;0;0
+Skoda Scala Style 110 kW;Scala;598490;Německo;10490;2020;Manuál;110;Benzín;0;1;0;0;0;0;0;0
+Skoda Rapid 1.0 TSI Clever 70 kW;Rapid;350490;Německo;25325;2018;Manuál;70;Benzín;0;1;0;0;0;0;0;0
+Skoda Karoq 1.0 TSI Ambition 85 kW;Karoq;467990;Švédsko;58460;2018;Manuál;85;Benzín;0;1;0;0;0;0;0;0
+Skoda Rapid 1.4 TDI Tec Joy 66 kW;Rapid;231490;Německo;118000;2016;Manuál;66;Diesel;0;0;0;1;0;0;0;0
+Skoda Superb 2.0 TDI DSG Active 110 kW;Superb;433490;Španělsko;114100;2018;Automat;110;Diesel;1;0;0;1;0;0;0;0
+Skoda Scala 110 kW;Scala;623990;Německo;24900;2020;Manuál;110;Benzín;0;1;0;0;0;0;0;0
+Skoda Superb 1.4 TSI Tec ACT 115 kW;Superb;1036490;Německo;2000;2021;Automat;115;Benzín;1;1;0;0;0;0;0;0
+Skoda Scala 1.6 TDI DSG Ambition 85 kW;Scala;541490;Itálie;11948;2021;Automat;85;Diesel;1;0;0;1;0;0;0;0
+Skoda Citigo 1.0 MPI Active 44 kW;Citigo;115990;Německo;115000;2015;Manuál;44;Benzín;0;1;0;0;0;0;0;0
+Skoda Karoq 1.0 TSI 85 kW;Karoq;422990;Francie;31975;2018;Manuál;85;Benzín;0;1;0;0;0;0;0;0
+Skoda Karoq 1.5 TSI ACT DSG 110 kW;Karoq;828990;Německo;1900;2022;Automat;110;Benzín;1;1;0;0;0;0;0;0
+Skoda Superb 2.0 TDI DSG Ambition 140 kW;Superb;698490;Německo;63552;2019;Automat;140;Diesel;1;0;0;1;0;0;0;0
+Skoda Octavia 110 kW;Octavia;439490;Polsko;57664;2018;Manuál;110;Benzín;0;1;0;0;0;0;0;0
+Skoda Scala Ambition 110 kW;Scala;494490;Německo;9766;2020;Manuál;110;Benzín;0;1;0;0;0;0;0;0
+Skoda Kodiaq 147 kW;Kodiaq;1177990;Německo;6291;2021;Automat;147;Diesel;1;0;0;1;0;0;0;0
+Skoda Karoq 1.5 TSI ACT DSG 110 kW;Karoq;740490;Španělsko;25500;2021;Automat;110;Benzín;1;1;0;0;0;0;0;0
+Skoda Kodiaq 2.0 TSI ACT 4x4 DSG Ambition 140 kW;Kodiaq;1007990;Německo;17190;2021;Automat;140;Benzín;1;1;0;0;0;0;0;0
+Skoda Rapid 1.0 TSI Green Tec Clever 82 kW;Rapid;310990;Švédsko;51660;2018;Manuál;82;Benzín;0;1;0;0;0;0;0;0
+Skoda Octavia 1.6 TDI Clever 85 kW;Octavia;377490;Francie;80253;2018;Manuál;85;Diesel;0;0;0;1;0;0;0;0
+Skoda Octavia 1.6 TDI Green Tec Active 85 kW;Octavia;305990;Slovensko;65192;2017;Manuál;85;Diesel;0;0;0;1;0;0;0;0
+Skoda Rapid 81 kW;Rapid;218490;Polsko;151366;2017;Manuál;81;Benzín;0;1;0;0;0;0;0;0
+Skoda Kodiaq Style 147 kW;Kodiaq;948490;Švédsko;41000;2021;Automat;147;Diesel;1;0;0;1;0;0;0;0
+Skoda Karoq 1.5 TSI ACT DSG 110 kW;Karoq;752490;Německo;25687;2021;Automat;110;Benzín;1;1;0;0;0;0;0;0
+Skoda Fabia 1.4 TDI Style 77 kW;Fabia;194990;Německo;110451;2015;Manuál;77;Diesel;0;0;0;1;0;0;0;0
+Skoda Rapid 81 kW;Rapid;286990;Polsko;65846;2017;Manuál;81;Benzín;0;1;0;0;0;0;0;0
+Skoda Superb 110 kW;Superb;479990;Polsko;81162;2018;Automat;110;Benzín;1;1;0;0;0;0;0;0
+Skoda Rapid 70 kW;Rapid;233990;Polsko;135993;2018;Manuál;70;Benzín;0;1;0;0;0;0;0;0
+Skoda Superb 147 kW;Superb;1112490;Německo;29628;2021;Automat;147;Diesel;1;0;0;1;0;0;0;0
+Skoda Octavia 2.0 TDI Green Tec Joy 110 kW;Octavia;747490;Itálie;18000;2020;Automat;110;Diesel;1;0;0;1;0;0;0;0
+Skoda Scala Ambition 110 kW;Scala;533990;Německo;11100;2020;Manuál;110;Benzín;0;1;0;0;0;0;0;0
+Skoda Enyaq iV 60 132 kW;Enyaq iV;986990;Francie;2000;2021;Automat;132;Elektřina;1;0;0;0;1;0;0;0
+Skoda Kodiaq 147 kW;Kodiaq;1086990;Německo;26500;2021;Automat;147;Diesel;1;0;0;1;0;0;0;0
+Skoda Octavia 1.5 TSI DSG Ambition 96 kW;Octavia;499990;Španělsko;21352;2019;Automat;96;CNG;1;0;1;0;0;0;0;0
+Skoda Rapid 85 kW;Rapid;260490;Polsko;117131;2017;Manuál;85;Diesel;0;0;0;1;0;0;0;0
+Skoda Scala 1.0 TSI Style 85 kW;Scala;485990;Španělsko;9000;2020;Manuál;85;Benzín;0;1;0;0;0;0;0;0
+Skoda Octavia 2.0l TDI DSG 4x4 147 kW;Octavia;984490;Německo;29771;2021;Automat;147;Diesel;1;0;0;1;0;0;0;0
+Skoda Superb 2.0 TDI Green Tec 140 kW;Superb;1113490;Německo;25000;2021;Automat;140;Diesel;1;0;0;1;0;0;0;0
+Skoda Scala Style 110 kW;Scala;647490;Německo;1000;2021;Manuál;110;Benzín;0;1;0;0;0;0;0;0
+Skoda Scala 1.6 TDI Ambition 85 kW;Scala;485990;Francie;10896;2020;Manuál;85;Diesel;0;0;0;1;0;0;0;0
+Skoda Scala 110 kW;Scala;649990;Německo;14890;2020;Manuál;110;Benzín;0;1;0;0;0;0;0;0
+Skoda Scala 110 kW;Scala;649490;Německo;1050;2021;Manuál;110;Benzín;0;1;0;0;0;0;0;0
+Skoda Kamiq 1.0 TSI DSG Ambition 81 kW;Kamiq;534490;Francie;16125;2021;Automat;81;Benzín;1;1;0;0;0;0;0;0
+Skoda Kodiaq 147 kW;Kodiaq;1164990;Německo;18900;2021;Automat;147;Diesel;1;0;0;1;0;0;0;0
+Skoda Scala Ambition 110 kW;Scala;563490;Španělsko;17000;2021;Automat;110;Benzín;1;1;0;0;0;0;0;0
+Skoda Kodiaq 2.0 TSI ACT 4x4 DSG Ambition 140 kW;Kodiaq;1009490;Německo;26120;2021;Automat;140;Benzín;1;1;0;0;0;0;0;0
+Skoda Kodiaq 2.0 TSI ACT 4x4 DSG 140 kW;Kodiaq;1001990;Německo;26614;2021;Automat;140;Benzín;1;1;0;0;0;0;0;0
+Skoda Superb 1.4 TSI Tec ACT Style 115 kW;Superb;1033990;Německo;3900;2021;Automat;115;Benzín;1;1;0;0;0;0;0;0
+Skoda Octavia 1.6 TDI Green Tec 85 kW;Octavia;485990;Francie;32107;2020;Manuál;85;Diesel;0;0;0;1;0;0;0;0
+Skoda Karoq 1.0 TSI Ambition 85 kW;Karoq;435490;Francie;76756;2018;Manuál;85;Benzín;0;1;0;0;0;0;0;0
+Skoda Enyaq iV 80 150 kW;Enyaq iV;1246490;Francie;5000;2021;Automat;150;Elektřina;1;0;0;0;1;0;0;0
+Skoda Rapid 1.2 TSI Green Tec Style 77 kW;Rapid;248490;Francie;42100;2015;Manuál;77;Benzín;0;1;0;0;0;0;0;0
+Skoda Rapid 1.0 TSI Ambition 81 kW;Rapid;249490;Slovensko;136000;2018;Manuál;81;Benzín;0;1;0;0;0;0;0;0
+Skoda Rapid 66 kW;Rapid;202490;Polsko;140418;2017;Manuál;66;Diesel;0;0;0;1;0;0;0;0
+Skoda Scala Style 110 kW;Scala;622990;Německo;29256;2020;Manuál;110;Benzín;0;1;0;0;0;0;0;0
+Skoda Kodiaq 147 kW;Kodiaq;1074990;Německo;25843;2021;Automat;147;Diesel;1;0;0;1;0;0;0;0
+Skoda Scala 1.6 TDI DSG Ambition 85 kW;Scala;554990;Itálie;19800;2021;Automat;85;Diesel;1;0;0;1;0;0;0;0
+Skoda Scala 1.5 TSI DSG Style 110 kW;Scala;572490;Německo;25000;2019;Automat;110;Benzín;1;1;0;0;0;0;0;0
+Skoda Fabia 1.0 TSI Style 70 kW;Fabia;437490;Belgie;9913;2021;Manuál;70;Benzín;0;1;0;0;0;0;0;0
+Skoda Octavia 2.0 TDI Green Tec Ambition 110 kW;Octavia;569490;Německo;64100;2019;Automat;110;Diesel;1;0;0;1;0;0;0;0
+Skoda Superb 110 kW;Superb;779990;Itálie;15800;2021;Automat;110;Diesel;1;0;0;1;0;0;0;0
+Skoda Scala 110 kW;Scala;621990;Německo;13815;2020;Manuál;110;Benzín;0;1;0;0;0;0;0;0
+Skoda Kodiaq 147 kW;Kodiaq;1032490;Německo;27600;2021;Automat;147;Diesel;1;0;0;1;0;0;0;0
+Skoda Kodiaq 2.0 TSI ACT 4x4 DSG 140 kW;Kodiaq;1033990;Německo;27600;2021;Automat;140;Benzín;1;1;0;0;0;0;0;0
+Skoda Kodiaq 2.0 TSI ACT 4x4 DSG 140 kW;Kodiaq;1035990;Německo;27056;2021;Automat;140;Benzín;1;1;0;0;0;0;0;0
+Skoda Scala 1.6 TDI DSG Ambition 85 kW;Scala;534490;Španělsko;19994;2020;Automat;85;Diesel;1;0;0;1;0;0;0;0
+Skoda Scala 110 kW;Scala;584990;Německo;3838;2021;Manuál;110;Benzín;0;1;0;0;0;0;0;0
+Skoda Superb 110 kW;Superb;727490;Německo;24425;2020;Manuál;110;Diesel;0;0;0;1;0;0;0;0
+Skoda Scala 110 kW;Scala;507990;Německo;12500;2020;Manuál;110;Benzín;0;1;0;0;0;0;0;0
+Skoda Scala 110 kW;Scala;683490;Německo;11000;2021;Manuál;110;Benzín;0;1;0;0;0;0;0;0
+Skoda Kodiaq 2.0 TSI ACT 4x4 DSG 140 kW;Kodiaq;998490;Německo;20700;2021;Automat;140;Benzín;1;1;0;0;0;0;0;0
+Skoda Yeti 1.2 TSI DSG Ambition 77 kW;Yeti;253490;Německo;116760;2014;Automat;77;Benzín;1;1;0;0;0;0;0;0
+Skoda Superb 1.4 TSI IV Sportline 157 kW;Superb;905490;Belgie;32000;2020;Automat;157;Hybrid;1;0;0;0;0;1;0;0
+Skoda Citigo 1.0 MPI 44 kW;Citigo;238490;Rakousko;22300;2017;Manuál;44;Benzín;0;1;0;0;0;0;0;0
+Skoda Superb 147 kW;Superb;1162490;Německo;21300;2021;Automat;147;Diesel;1;0;0;1;0;0;0;0
+Skoda Octavia 2.0 TDI DPF DSG 103 kW;Octavia;245490;Německo;119800;2013;Automat;103;Diesel;1;0;0;1;0;0;0;0
+Skoda Scala 110 kW;Scala;698990;Německo;2000;2021;Manuál;110;Benzín;0;1;0;0;0;0;0;0
+Skoda Superb Combi 2.0 TDI Green Tec Business Edition 110 kW;Superb;739490;Francie;20850;2021;Automat;110;Diesel;1;0;0;1;0;0;0;0
+Skoda Kodiaq 2.0 4x4 DSG RS 176 kW;Kodiaq;1288490;Francie;18791;2020;Automat;176;Diesel;1;0;0;1;0;0;0;0
+Skoda Superb Combi 2.0 TDI Green Tec Business Edition 110 kW;Superb;571990;Německo;58499;2019;Manuál;110;Diesel;0;0;0;1;0;0;0;0
+Skoda Superb 147 kW;Superb;1033990;Německo;22760;2021;Automat;147;Diesel;1;0;0;1;0;0;0;0
+Skoda Kodiaq 2.0 TSI ACT 4x4 DSG 140 kW;Kodiaq;970990;Německo;24432;2021;Automat;140;Benzín;1;1;0;0;0;0;0;0
+Skoda Kodiaq 2.0 TSI ACT 4x4 DSG 140 kW;Kodiaq;980990;Německo;21158;2021;Automat;140;Benzín;1;1;0;0;0;0;0;0
+Skoda Yeti 2.0 TDI 4x4 Ambition 81 kW;Yeti;327990;Slovensko;134623;2017;Manuál;81;Diesel;0;0;0;1;0;0;0;0
+Skoda Karoq 1.0 TSI DSG Style 85 kW;Karoq;536490;Francie;45279;2018;Automat;85;Benzín;1;1;0;0;0;0;0;0
+Skoda Karoq 1.0 TSI Ambition 85 kW;Karoq;489990;Švédsko;22000;2019;Manuál;85;Benzín;0;1;0;0;0;0;0;0
+Skoda Superb 2.0 TSI DSG Ambition 140 kW;Superb;865990;Německo;25623;2021;Automat;140;Benzín;1;1;0;0;0;0;0;0
+Skoda Yeti 2.0 TDI 81 kW;Yeti;257490;Německo;111271;2013;Manuál;81;Diesel;0;0;0;1;0;0;0;0
+Skoda Superb 147 kW;Superb;1035990;Německo;27633;2021;Automat;147;Diesel;1;0;0;1;0;0;0;0
+Skoda Kodiaq 1.5 TSI ACT DSG 110 kW;Kodiaq;984990;Německo;2500;2021;Automat;110;Benzín;1;1;0;0;0;0;0;0
+Skoda Scala 1.0 TSI DSG Ambition 81 kW;Scala;524490;Španělsko;22000;2021;Automat;81;Benzín;1;1;0;0;0;0;0;0
+Skoda Scala 110 kW;Scala;698990;Německo;9999;2021;Manuál;110;Benzín;0;1;0;0;0;0;0;0
+Skoda Fabia 1.0 TSI 70 kW;Fabia;409990;Francie;13400;2021;Manuál;70;Benzín;0;1;0;0;0;0;0;0
+Skoda Enyaq iV 80 150 kW;Enyaq iV;1296990;Francie;9000;2021;Automat;150;Elektřina;1;0;0;0;1;0;0;0
+Skoda Superb 1.5 TSI ACT DSG Active 110 kW;Superb;456990;Německo;40322;2018;Automat;110;Benzín;1;1;0;0;0;0;0;0
+Skoda Superb 2.0 TDI 110 kW;Superb;481990;Německo;67263;2019;Manuál;110;Diesel;0;0;0;1;0;0;0;0
+Skoda Karoq 1.5 TSI ACT DSG 110 kW;Karoq;728990;Polsko;20600;2021;Automat;110;Benzín;1;1;0;0;0;0;0;0
+Skoda Enyaq iV 60 132 kW;Enyaq iV;977490;Francie;1000;2021;Automat;132;Elektřina;1;0;0;0;1;0;0;0
+Skoda Superb 2.0 TDI DSG Style 110 kW;Superb;485990;Francie;87438;2017;Automat;110;Diesel;1;0;0;1;0;0;0;0
+Skoda Scala 1.6 TDI Ambition 85 kW;Scala;493990;Španělsko;24415;2020;Manuál;85;Diesel;0;0;0;1;0;0;0;0
+Skoda Scala 110 kW;Scala;620990;Německo;10530;2020;Manuál;110;Benzín;0;1;0;0;0;0;0;0
+Skoda Octavia 2.0 TDI Tec DSG 110 kW;Octavia;358490;Francie;98967;2016;Automat;110;Diesel;1;0;0;1;0;0;0;0
+Skoda Kodiaq 2.0 TSI ACT 4x4 DSG 140 kW;Kodiaq;970490;Německo;22300;2020;Automat;140;Benzín;1;1;0;0;0;0;0;0
+Skoda Superb Combi 2.0 TDI Green Tec Business Edition 110 kW;Superb;764990;Francie;13850;2021;Automat;110;Diesel;1;0;0;1;0;0;0;0
+Skoda Karoq 1.5 TSI ACT DSG 110 kW;Karoq;803990;Německo;4890;2021;Automat;110;Benzín;1;1;0;0;0;0;0;0
+Skoda Octavia 2.0l TDI DSG 4x4 147 kW;Octavia;984490;Německo;25280;2021;Automat;147;Diesel;1;0;0;1;0;0;0;0
+Skoda Rapid 85 kW;Rapid;281490;Polsko;110000;2017;Manuál;85;Diesel;0;0;0;1;0;0;0;0
+Skoda Scala 1.0 TSI Ambition 81 kW;Scala;473990;Španělsko;9048;2021;Manuál;81;Benzín;0;1;0;0;0;0;0;0
+Skoda Scala 110 kW;Scala;497990;Polsko;7500;2021;Manuál;110;Benzín;0;1;0;0;0;0;0;0
+Skoda Kodiaq 147 kW;Kodiaq;1099490;Německo;14741;2021;Automat;147;Diesel;1;0;0;1;0;0;0;0
+Skoda Kodiaq 2.0 TSI ACT 4x4 DSG Soleil 140 kW;Kodiaq;967490;Německo;23054;2020;Automat;140;Benzín;1;1;0;0;0;0;0;0
+Skoda Scala 110 kW;Scala;649990;Německo;17852;2021;Manuál;110;Benzín;0;1;0;0;0;0;0;0
+Skoda Yeti 1.2 TSI 77 kW;Yeti;225490;Německo;99900;2013;Manuál;77;Benzín;0;1;0;0;0;0;0;0
+Skoda Octavia 2.0 TDI Green Tec Joy 110 kW;Octavia;632990;Švédsko;37900;2020;Automat;110;Diesel;1;0;0;1;0;0;0;0
+Skoda Superb 110 kW;Superb;474490;Polsko;61504;2018;Automat;110;Benzín;1;1;0;0;0;0;0;0
+Skoda Enyaq iV 80 150 kW;Enyaq iV;1388490;Francie;8500;2021;Automat;150;Elektřina;1;0;0;0;1;0;0;0
+Skoda Scala 1.6 TDI DSG Ambition 85 kW;Scala;541490;Itálie;14743;2021;Automat;85;Diesel;1;0;0;1;0;0;0;0
+Skoda Scala 110 kW;Scala;713990;Německo;26854;2021;Manuál;110;Benzín;0;1;0;0;0;0;0;0
+Skoda Rapid 90 kW;Rapid;287490;Německo;84000;2014;Automat;90;Benzín;1;1;0;0;0;0;0;0
+Skoda Fabia 1.0 TSI Clever 70 kW;Fabia;238490;Francie;73210;2018;Manuál;70;Benzín;0;1;0;0;0;0;0;0
+Skoda Rapid 66 kW;Rapid;242490;Polsko;137950;2017;Manuál;66;Diesel;0;0;0;1;0;0;0;0
+Skoda Superb Combi 2.0 TDI Green Tec Sportline Business 110 kW;Superb;512490;Německo;113400;2017;Automat;110;Diesel;1;0;0;1;0;0;0;0
+Skoda Citigo 1.0 MPI Active 44 kW;Citigo;185490;Rakousko;79577;2018;Manuál;44;Benzín;0;1;0;0;0;0;0;0
+Skoda Kodiaq 2.0 TSI ACT 4x4 DSG 140 kW;Kodiaq;965990;Německo;28154;2021;Automat;140;Benzín;1;1;0;0;0;0;0;0
+Skoda Kodiaq 2.0 TSI ACT 4x4 DSG 140 kW;Kodiaq;984490;Německo;20900;2021;Automat;140;Benzín;1;1;0;0;0;0;0;0
+Skoda Scala Style 110 kW;Scala;598490;Německo;19246;2021;Manuál;110;Benzín;0;1;0;0;0;0;0;0
+Skoda Kodiaq 2.0 TSI ACT 4x4 DSG 140 kW;Kodiaq;981990;Německo;19000;2021;Automat;140;Benzín;1;1;0;0;0;0;0;0
+Skoda Citigo 1.0 MPI Tec Clever 44 kW;Citigo;238990;Francie;16530;2019;Manuál;44;Benzín;0;1;0;0;0;0;0;0
+Skoda Fabia 1.0 TSI Monte Carlo 70 kW;Fabia;382490;Francie;11641;2021;Manuál;70;Benzín;0;1;0;0;0;0;0;0
+Skoda Enyaq iV 80 150 kW;Enyaq iV;1144990;Francie;15890;2021;Automat;150;Elektřina;1;0;0;0;1;0;0;0
+Skoda Karoq 1.5 TSI ACT 110 kW;Karoq;550490;Švédsko;33550;2018;Manuál;110;Benzín;0;1;0;0;0;0;0;0
+Skoda Fabia TSI 81kW Tec Style 81 kW;Fabia;427490;Německo;25313;2020;Manuál;81;Benzín;0;1;0;0;0;0;0;0
+Skoda Octavia 2.0l TDI DSG 4x4 147 kW;Octavia;979990;Německo;24600;2021;Automat;147;Diesel;1;0;0;1;0;0;0;0
+Skoda Kamiq 1.0 TSI DSG 81 kW;Kamiq;549490;Francie;3000;2021;Automat;81;Benzín;1;1;0;0;0;0;0;0
+Skoda Karoq 1.5 TSI ACT DSG 110 kW;Karoq;713990;Francie;5400;2021;Automat;110;Benzín;1;1;0;0;0;0;0;0
+Skoda Scala 110 kW;Scala;644990;Německo;3778;2021;Manuál;110;Benzín;0;1;0;0;0;0;0;0
+Skoda Scala Style 110 kW;Scala;605990;Německo;14500;2020;Manuál;110;Benzín;0;1;0;0;0;0;0;0
+Skoda Kamiq 1.5 TSI DSG Ambition 110 kW;Kamiq;561990;Španělsko;17900;2021;Automat;110;Benzín;1;1;0;0;0;0;0;0
+Skoda Scala Ambition 110 kW;Scala;506990;Německo;11707;2020;Manuál;110;Benzín;0;1;0;0;0;0;0;0
+Skoda Fabia 1.0 TSI 70 kW;Fabia;397490;Francie;15797;2021;Automat;70;Benzín;1;1;0;0;0;0;0;0
+Skoda Karoq 1.6 TDI SCR DSG 85 kW;Karoq;535990;Francie;54690;2019;Automat;85;Diesel;1;0;0;1;0;0;0;0
+Skoda Scala 110 kW;Scala;662990;Německo;23592;2021;Manuál;110;Benzín;0;1;0;0;0;0;0;0
+Skoda Kodiaq 147 kW;Kodiaq;1136990;Německo;19983;2021;Automat;147;Diesel;1;0;0;1;0;0;0;0
+Skoda Scala Style 110 kW;Scala;556990;Německo;10509;2020;Manuál;110;Benzín;0;1;0;0;0;0;0;0
+Skoda Kodiaq 2.0 TSI ACT 4x4 DSG 140 kW;Kodiaq;1010490;Německo;6500;2021;Automat;140;Benzín;1;1;0;0;0;0;0;0
+Skoda Scala Ambition 110 kW;Scala;545490;Španělsko;24960;2020;Automat;110;Benzín;1;1;0;0;0;0;0;0
+Skoda Superb 1.4 TSI Tec ACT Style 115 kW;Superb;1035990;Německo;6052;2021;Automat;115;Benzín;1;1;0;0;0;0;0;0
+Skoda Kodiaq 147 kW;Kodiaq;1188490;Německo;25900;2021;Automat;147;Diesel;1;0;0;1;0;0;0;0
+Skoda Enyaq iV 60 132 kW;Enyaq iV;952490;Francie;1000;2021;Automat;132;Elektřina;1;0;0;0;1;0;0;0
+Skoda Kodiaq 2.0 TSI ACT 4x4 DSG 140 kW;Kodiaq;984490;Německo;23900;2021;Automat;140;Benzín;1;1;0;0;0;0;0;0
+Skoda Octavia 2.0 TDI Tec Business 110 kW;Octavia;518990;Francie;56235;2019;Automat;110;Diesel;1;0;0;1;0;0;0;0
+Skoda Scala 110 kW;Scala;590490;Německo;9800;2020;Manuál;110;Benzín;0;1;0;0;0;0;0;0
+Skoda Kodiaq 1.5 TSI ACT DSG Style 110 kW;Kodiaq;930490;Německo;7480;2021;Automat;110;Benzín;1;1;0;0;0;0;0;0
+Skoda Karoq 1.5 TSI ACT DSG 110 kW;Karoq;713990;Francie;5638;2021;Automat;110;Benzín;1;1;0;0;0;0;0;0
+Skoda Kodiaq Style 147 kW;Kodiaq;986990;Švédsko;17970;2021;Automat;147;Diesel;1;0;0;1;0;0;0;0
+Skoda Octavia 110 kW;Octavia;472490;Španělsko;33000;2020;Manuál;110;Benzín;0;1;0;0;0;0;0;0
+Skoda Kodiaq 2.0 TDI DSG Ambition 110 kW;Kodiaq;838490;Francie;27431;2021;Automat;110;Diesel;1;0;0;1;0;0;0;0
+Skoda Enyaq iV 80 150 kW;Enyaq iV;1372990;Francie;6000;2021;Automat;150;Elektřina;1;0;0;0;1;0;0;0
+Skoda Fabia Combi 1.0 TSI Tec 70 kW;Fabia;397490;Francie;12740;2021;Manuál;70;Benzín;0;1;0;0;0;0;0;0
+Skoda Fabia 1.0 TSI 70 kW;Fabia;367990;Francie;19382;2021;Manuál;70;Benzín;0;1;0;0;0;0;0;0
+Skoda Citigo 1.0 MPI Tec 44 kW;Citigo;223490;Polsko;51000;2019;Manuál;44;Benzín;0;1;0;0;0;0;0;0
+Skoda Superb 2.0 TDI DSG 110 kW;Superb;534490;Francie;46521;2018;Automat;110;Diesel;1;0;0;1;0;0;0;0
+Skoda Kodiaq 2.0 TDI DSG 110 kW;Kodiaq;924490;Francie;8026;2021;Automat;110;Diesel;1;0;0;1;0;0;0;0
+Skoda Kodiaq 147 kW;Kodiaq;1060990;Německo;29990;2021;Automat;147;Diesel;1;0;0;1;0;0;0;0
+Skoda Citigo 61 kW;Citigo;468490;Německo;15530;2020;Automat;61;Elektřina;1;0;0;0;1;0;0;0
+Skoda Fabia 1.0 TSI 70 kW;Fabia;372490;Francie;8185;2021;Manuál;70;Benzín;0;1;0;0;0;0;0;0
+Skoda Karoq 1.5 TSI ACT Ambition 110 kW;Karoq;598490;Německo;50664;2019;Manuál;110;Benzín;0;1;0;0;0;0;0;0
+Skoda Kodiaq 2.0 TSI ACT 4x4 DSG 140 kW;Kodiaq;971490;Německo;19869;2021;Automat;140;Benzín;1;1;0;0;0;0;0;0
+Skoda Octavia 1.8 TSI DSG Ambition 132 kW;Octavia;482490;Německo;42875;2018;Automat;132;Benzín;1;1;0;0;0;0;0;0
+Skoda Scala 110 kW;Scala;589490;Německo;10766;2020;Manuál;110;Benzín;0;1;0;0;0;0;0;0
+Skoda Karoq 1.5 TSI ACT 110 kW;Karoq;538490;Francie;44575;2019;Manuál;110;Benzín;0;1;0;0;0;0;0;0
+Skoda Octavia 110 kW;Octavia;418990;Polsko;54510;2018;Manuál;110;Benzín;0;1;0;0;0;0;0;0
+Skoda Octavia 1.5 TSI ACT DSG 110 kW;Octavia;585490;Německo;24000;2020;Automat;110;Benzín;1;1;0;0;0;0;0;0
+Skoda Rapid 77 kW;Rapid;242990;Polsko;14800;2014;Manuál;77;Benzín;0;1;0;0;0;0;0;0
+Skoda Rapid 1.0 TSI 70 kW;Rapid;275490;Německo;95320;2017;Manuál;70;Benzín;0;1;0;0;0;0;0;0
+Skoda Kodiaq 147 kW;Kodiaq;1215990;Německo;26700;2021;Automat;147;Diesel;1;0;0;1;0;0;0;0
+Skoda Rapid 63 kW;Rapid;226990;Německo;109438;2015;Manuál;63;Benzín;0;1;0;0;0;0;0;0
+Skoda Octavia 110 kW;Octavia;488990;Španělsko;33474;2020;Manuál;110;Benzín;0;1;0;0;0;0;0;0
+Skoda Kodiaq 2.0 TSI ACT 4x4 DSG 140 kW;Kodiaq;1035490;Německo;26590;2021;Automat;140;Benzín;1;1;0;0;0;0;0;0
+Skoda Kodiaq 147 kW;Kodiaq;1085490;Německo;16100;2021;Automat;147;Diesel;1;0;0;1;0;0;0;0
+Skoda Octavia 85 kW;Octavia;461990;Španělsko;27916;2019;Automat;85;Benzín;1;1;0;0;0;0;0;0
+Skoda Octavia 85 kW;Octavia;333990;Polsko;124814;2018;Manuál;85;Diesel;0;0;0;1;0;0;0;0
+Skoda Fabia 1.0 TSI 70 kW;Fabia;410490;Francie;13786;2021;Automat;70;Benzín;1;1;0;0;0;0;0;0
+Skoda Yeti 2.0 TDI Green Tec 4x4 Style 110 kW;Yeti;456990;Německo;131500;2017;Automat;110;Diesel;1;0;0;1;0;0;0;0
+Skoda Scala 1.0 TSI DSG Ambition 81 kW;Scala;509490;Španělsko;12610;2021;Automat;81;Benzín;1;1;0;0;0;0;0;0
+Skoda Enyaq iV 80 150 kW;Enyaq iV;1271490;Francie;6000;2021;Automat;150;Elektřina;1;0;0;0;1;0;0;0
+Skoda Superb 2.0 TSI 4x4 DSG L&K 200 kW;Superb;1073490;Německo;14986;2021;Automat;200;Benzín;1;1;0;0;0;0;0;0
+Skoda Scala 110 kW;Scala;714490;Německo;18000;2021;Manuál;110;Benzín;0;1;0;0;0;0;0;0
+Skoda Citigo 1.0 MPI Active 44 kW;Citigo;116990;Německo;110000;2015;Manuál;44;Benzín;0;1;0;0;0;0;0;0
+Skoda Rapid 77 kW;Rapid;236490;Německo;142550;2015;Manuál;77;Benzín;0;1;0;0;0;0;0;0
+Skoda Rapid 85 kW;Rapid;336490;Německo;95835;2018;Manuál;85;Diesel;0;0;0;1;0;0;0;0
+Skoda Kodiaq 180 kW;Kodiaq;1265490;Německo;4898;2021;Automat;180;Benzín;1;1;0;0;0;0;0;0
+Skoda Rapid 66 kW;Rapid;212990;Polsko;110838;2016;Manuál;66;Diesel;0;0;0;1;0;0;0;0
+Skoda Kodiaq 2.0 TDI 4x4 DSG Sportline 140 kW;Kodiaq;1011490;Švédsko;25050;2020;Automat;140;Diesel;1;0;0;1;0;0;0;0
+Skoda Scala 110 kW;Scala;698990;Německo;2000;2021;Manuál;110;Benzín;0;1;0;0;0;0;0;0
+Skoda Citigo 1.0 MPI 44 kW;Citigo;187490;Francie;48750;2017;Manuál;44;Benzín;0;1;0;0;0;0;0;0
+Skoda Superb 147 kW;Superb;1048990;Německo;20826;2021;Automat;147;Diesel;1;0;0;1;0;0;0;0
+Skoda Karoq 1.5 TSI ACT DSG 110 kW;Karoq;798990;Německo;13505;2021;Automat;110;Benzín;1;1;0;0;0;0;0;0
+Skoda Superb 2.0 TDI Tec Ambition 110 kW;Superb;855990;Německo;21562;2021;Automat;110;Diesel;1;0;0;1;0;0;0;0
+Skoda Citigo 1.0 MPI 55 kW;Citigo;218490;Polsko;46698;2018;Manuál;55;Benzín;0;1;0;0;0;0;0;0
+Skoda Kodiaq 147 kW;Kodiaq;1072990;Německo;26500;2021;Automat;147;Diesel;1;0;0;1;0;0;0;0
+Skoda Octavia 2.0 TDI DSG Ambition 110 kW;Octavia;829490;Německo;4900;2021;Automat;110;Diesel;1;0;0;1;0;0;0;0
+Skoda Enyaq iV 60 132 kW;Enyaq iV;974990;Francie;1000;2021;Automat;132;Elektřina;1;0;0;0;1;0;0;0
+Skoda Yeti 1.4 TSI Drive 92 kW;Yeti;357490;Německo;117907;2017;Manuál;92;Benzín;0;1;0;0;0;0;0;0
+Skoda Kodiaq 180 kW;Kodiaq;1290990;Německo;4999;2022;Automat;180;Benzín;1;1;0;0;0;0;0;0
+Skoda Rapid 70 kW;Rapid;209490;Německo;135420;2017;Manuál;70;Benzín;0;1;0;0;0;0;0;0
+Skoda Kamiq 1.0 TSI 81 kW;Kamiq;473990;Slovensko;9000;2022;Manuál;81;Benzín;0;1;0;0;0;0;0;0
+Skoda Enyaq iV 60 132 kW;Enyaq iV;1018490;Francie;8000;2021;Automat;132;Elektřina;1;0;0;0;1;0;0;0
+Skoda Scala 110 kW;Scala;672990;Německo;22900;2021;Manuál;110;Benzín;0;1;0;0;0;0;0;0
+Skoda Scala 1.0 TSI DSG 85 kW;Scala;455990;Německo;19500;2021;Automat;85;Benzín;1;1;0;0;0;0;0;0
+Skoda Octavia 2.0 TDI 4x4 DSG RS 135 kW;Octavia;659490;Švédsko;49560;2019;Automat;135;Diesel;1;0;0;1;0;0;0;0
+Skoda Superb 147 kW;Superb;1110990;Německo;10490;2021;Automat;147;Diesel;1;0;0;1;0;0;0;0
+Skoda Rapid 66 kW;Rapid;299990;Německo;81100;2016;Automat;66;Diesel;1;0;0;1;0;0;0;0
+Skoda Rapid 85 kW;Rapid;286990;Polsko;78078;2017;Manuál;85;Diesel;0;0;0;1;0;0;0;0
+Skoda Karoq 1.0 TSI Ambition 87 kW;Karoq;448490;Francie;59345;2018;Manuál;87;Benzín;0;1;0;0;0;0;0;0
+Skoda Fabia 1.0 MPI Ambition 55 kW;Fabia;262990;Německo;52460;2016;Manuál;55;Benzín;0;1;0;0;0;0;0;0
+Skoda Citigo 1.0 MPI 55 kW;Citigo;219490;Německo;22224;2017;Manuál;55;Benzín;0;1;0;0;0;0;0;0
+Skoda Fabia 1.0 MPI 55 kW;Fabia;202490;Německo;69000;2018;Manuál;55;Benzín;0;1;0;0;0;0;0;0
+Skoda Kodiaq 2.0 4x4 DSG RS 176 kW;Kodiaq;1164990;Německo;39500;2020;Automat;176;Diesel;1;0;0;1;0;0;0;0
+Skoda Kamiq 1.0 TSI DSG Ambition 81 kW;Kamiq;549490;Francie;13524;2021;Automat;81;Benzín;1;1;0;0;0;0;0;0
+Skoda Kodiaq 147 kW;Kodiaq;1047990;Německo;21900;2021;Automat;147;Diesel;1;0;0;1;0;0;0;0
+Skoda Scala Style 110 kW;Scala;572490;Německo;30616;2020;Manuál;110;Benzín;0;1;0;0;0;0;0;0
+Skoda Rapid 70 kW;Rapid;265490;Polsko;64720;2018;Manuál;70;Benzín;0;1;0;0;0;0;0;0
+Skoda Enyaq iV 60 Sportline 132 kW;Enyaq iV;932490;Francie;5000;2021;Automat;132;Elektřina;1;0;0;0;1;0;0;0
+Skoda Enyaq iV 80 150 kW;Enyaq iV;1271490;Francie;6500;2021;Automat;150;Elektřina;1;0;0;0;1;0;0;0
+Skoda Octavia 2.0l TDI DSG 4x4 147 kW;Octavia;1035990;Německo;25750;2021;Automat;147;Diesel;1;0;0;1;0;0;0;0
+Skoda Superb 147 kW;Superb;1164990;Německo;1679;2021;Automat;147;Diesel;1;0;0;1;0;0;0;0
+Skoda Kodiaq 2.0 TSI ACT 4x4 DSG Ambition 140 kW;Kodiaq;984490;Německo;18598;2021;Automat;140;Benzín;1;1;0;0;0;0;0;0
+Skoda Scala 110 kW;Scala;621990;Německo;18250;2020;Manuál;110;Benzín;0;1;0;0;0;0;0;0
+Skoda Superb 162 kW;Superb;553490;Polsko;80928;2017;Automat;162;Benzín;1;1;0;0;0;0;0;0
+Skoda Karoq 2.0 TDI SCR 4x4 DSG Style 110 kW;Karoq;638490;Belgie;41000;2019;Automat;110;Diesel;1;0;0;1;0;0;0;0
+Skoda Kodiaq 2.0 4x4 DSG RS 176 kW;Kodiaq;1216490;Německo;50000;2020;Automat;176;Diesel;1;0;0;1;0;0;0;0
+Skoda Karoq 1.0 TSI 85 kW;Karoq;485990;Francie;76000;2019;Manuál;85;Benzín;0;1;0;0;0;0;0;0
+Skoda Superb 147 kW;Superb;1057990;Německo;27122;2021;Automat;147;Diesel;1;0;0;1;0;0;0;0
+Skoda Karoq 1.5 TSI ACT DSG 110 kW;Karoq;804490;Německo;3000;2021;Automat;110;Benzín;1;1;0;0;0;0;0;0
+Skoda Kodiaq 2.0 4x4 DSG RS 176 kW;Kodiaq;1212990;Německo;32790;2020;Automat;176;Diesel;1;0;0;1;0;0;0;0
+Skoda Fabia 1.0 MPI Ambition 55 kW;Fabia;285490;Španělsko;30125;2019;Manuál;55;Benzín;0;1;0;0;0;0;0;0
+Skoda Rapid 77 kW;Rapid;202490;Polsko;115200;2014;Manuál;77;Benzín;0;1;0;0;0;0;0;0
+Skoda Kodiaq 2.0 TSI ACT 4x4 DSG Sportline 140 kW;Kodiaq;1215490;Německo;6908;2021;Automat;140;Benzín;1;1;0;0;0;0;0;0
+Skoda Scala Style 110 kW;Scala;567490;Německo;15500;2020;Manuál;110;Benzín;0;1;0;0;0;0;0;0
+Skoda Kodiaq 2.0 TSI ACT 4x4 DSG 140 kW;Kodiaq;981990;Německo;13100;2021;Automat;140;Benzín;1;1;0;0;0;0;0;0
+Skoda Karoq 1.5 TSI ACT DSG Ambition 110 kW;Karoq;558490;Španělsko;75800;2018;Automat;110;Benzín;1;1;0;0;0;0;0;0
+Skoda Karoq 2.0 TDI SCR 4x4 DSG Ambition 110 kW;Karoq;894490;Německo;1000;2021;Automat;110;Diesel;1;0;0;1;0;0;0;0
+Skoda Octavia 1.6 TDI Green Tec 85 kW;Octavia;485990;Francie;41704;2020;Manuál;85;Diesel;0;0;0;1;0;0;0;0
+Skoda Rapid 1.2 TSI Tec 77 kW;Rapid;236490;Francie;95000;2016;Manuál;77;Benzín;0;1;0;0;0;0;0;0
+Skoda Karoq 1.5 TSI ACT DSG 110 kW;Karoq;764990;Francie;2000;2021;Automat;110;Benzín;1;1;0;0;0;0;0;0
+Skoda Enyaq iV 60 132 kW;Enyaq iV;932490;Francie;5000;2021;Automat;132;Elektřina;1;0;0;0;1;0;0;0
+Skoda Kamiq 1.5 TSI 110 kW;Kamiq;561990;Francie;33668;2020;Manuál;110;Benzín;0;1;0;0;0;0;0;0
+Skoda Rapid 85 kW;Rapid;312490;Polsko;104000;2017;Manuál;85;Diesel;0;0;0;1;0;0;0;0
+Skoda Octavia 2.0 TDI Green Tec Joy 110 kW;Octavia;391990;Rakousko;134868;2017;Automat;110;Diesel;1;0;0;1;0;0;0;0
+Skoda Rapid 81 kW;Rapid;254990;Polsko;147449;2018;Manuál;81;LPG;0;0;0;0;0;0;1;0
+Skoda Rapid 1.0 TSI Clever 70 kW;Rapid;295990;Německo;116391;2018;Manuál;70;Benzín;0;1;0;0;0;0;0;0
+Skoda Citigo 1.0 MPI Tec 44 kW;Citigo;219490;Francie;40128;2019;Manuál;44;Benzín;0;1;0;0;0;0;0;0
+Skoda Kodiaq 2.0 TSI ACT 4x4 DSG 140 kW;Kodiaq;971990;Německo;28100;2021;Automat;140;Benzín;1;1;0;0;0;0;0;0
+Skoda Scala Style 110 kW;Scala;700490;Německo;11000;2021;Manuál;110;Benzín;0;1;0;0;0;0;0;0
+Skoda Fabia 1.0 Green Tec Active 55 kW;Fabia;226990;Slovensko;73000;2018;Manuál;55;Benzín;0;1;0;0;0;0;0;0
+Skoda Kodiaq 2.0 TSI ACT 4x4 DSG 140 kW;Kodiaq;984490;Německo;13300;2021;Automat;140;Benzín;1;1;0;0;0;0;0;0
+Skoda Yeti 2.0 TDI 4x4 Ambition 110 kW;Yeti;422990;Rakousko;117000;2016;Manuál;110;Diesel;0;0;0;1;0;0;0;0
+Skoda Octavia 110 kW;Octavia;773490;Polsko;13675;2021;Automat;110;Hybrid;1;0;0;0;0;1;0;0
+Skoda Kodiaq 2.0 TSI ACT 4x4 DSG 140 kW;Kodiaq;1033990;Německo;16260;2021;Automat;140;Benzín;1;1;0;0;0;0;0;0
+Skoda Octavia 2.0 TDI Drive 110 kW;Octavia;398990;Německo;142766;2017;Manuál;110;Diesel;0;0;0;1;0;0;0;0
+Skoda Octavia 1.6 TDI Green Tec Style 85 kW;Octavia;311990;Itálie;125000;2018;Automat;85;Diesel;1;0;0;1;0;0;0;0
+Skoda Octavia 2.0 TDI Green Tec Style 110 kW;Octavia;509490;Itálie;51300;2018;Automat;110;Diesel;1;0;0;1;0;0;0;0
+Skoda Fabia 1.0 TSI Ambition 70 kW;Fabia;311990;Španělsko;25116;2021;Manuál;70;Benzín;0;1;0;0;0;0;0;0
+Skoda Enyaq iV 80 150 kW;Enyaq iV;1319990;Francie;4000;2021;Automat;150;Elektřina;1;0;0;0;1;0;0;0
+Skoda Octavia 2.0l TDI DSG 4x4 147 kW;Octavia;981990;Německo;32259;2021;Automat;147;Diesel;1;0;0;1;0;0;0;0
+Skoda Scala 110 kW;Scala;685990;Německo;19900;2020;Manuál;110;Benzín;0;1;0;0;0;0;0;0
+Skoda Superb 147 kW;Superb;1061990;Německo;21929;2021;Automat;147;Diesel;1;0;0;1;0;0;0;0
+Skoda Kodiaq 147 kW;Kodiaq;1084490;Německo;24900;2021;Automat;147;Diesel;1;0;0;1;0;0;0;0
+Skoda Scala 1.0 TSI Ambition 70 kW;Scala;445990;Španělsko;13000;2021;Manuál;70;Benzín;0;1;0;0;0;0;0;0
+Skoda Enyaq iV 80 150 kW;Enyaq iV;1407490;Německo;7364;2021;Automat;150;Elektřina;1;0;0;0;1;0;0;0
+Skoda Octavia 1.6 TDI Green Tec 85 kW;Octavia;485990;Francie;58918;2020;Manuál;85;Diesel;0;0;0;1;0;0;0;0
+Skoda Scala 110 kW;Scala;587490;Německo;18200;2020;Manuál;110;Benzín;0;1;0;0;0;0;0;0
+Skoda Kodiaq 2.0 TDI DSG Ambition 110 kW;Kodiaq;655490;Francie;60000;2018;Automat;110;Diesel;1;0;0;1;0;0;0;0
+Skoda Kodiaq 2.0 TSI ACT 4x4 DSG 140 kW;Kodiaq;983990;Německo;28500;2021;Automat;140;Benzín;1;1;0;0;0;0;0;0
+Skoda Kamiq 1.0 TSI DSG Ambition 85 kW;Kamiq;511490;Francie;11433;2019;Automat;85;Benzín;1;1;0;0;0;0;0;0
+Skoda Fabia 1.0 MPI Cool Edition 44 kW;Fabia;228990;Německo;46700;2016;Manuál;44;Benzín;0;1;0;0;0;0;0;0
+Skoda Superb 2.0 TDI Green Tec Ambition 110 kW;Superb;519990;Německo;50002;2017;Manuál;110;Diesel;0;0;0;1;0;0;0;0
+Skoda Rapid 1.6 TDI Clever 85 kW;Rapid;392990;Německo;94950;2018;Manuál;85;Diesel;0;0;0;1;0;0;0;0
+Skoda Kodiaq 2.0 TDI DSG 110 kW;Kodiaq;675990;Francie;46520;2018;Automat;110;Diesel;1;0;0;1;0;0;0;0
+Skoda Octavia 180 kW;Octavia;790490;Nizozemsko;29684;2021;Automat;180;Hybrid;1;0;0;0;0;1;0;0
+Skoda Kodiaq 147 kW;Kodiaq;1267990;Německo;22000;2021;Automat;147;Diesel;1;0;0;1;0;0;0;0
+Skoda Yeti 2.0 TDI Green Tec 4x4 Joy 110 kW;Yeti;440990;Německo;123182;2017;Manuál;110;Diesel;0;0;0;1;0;0;0;0
+Skoda Scala 110 kW;Scala;504490;Slovensko;6200;2021;Manuál;110;Benzín;0;1;0;0;0;0;0;0
+Skoda Kodiaq 2.0 TSI ACT 4x4 DSG 140 kW;Kodiaq;1023490;Německo;24550;2021;Automat;140;Benzín;1;1;0;0;0;0;0;0
+Skoda Superb 200 kW;Superb;676490;Německo;29192;2016;Automat;200;Benzín;1;1;0;0;0;0;0;0
+Skoda Superb 1.5 TSI ACT Ambition 110 kW;Superb;618490;Německo;19500;2020;Manuál;110;Benzín;0;1;0;0;0;0;0;0
+Skoda Octavia 180 kW;Octavia;764990;Nizozemsko;29346;2021;Automat;180;Hybrid;1;0;0;0;0;1;0;0
+Skoda Kodiaq 2.0 4x4 DSG RS 176 kW;Kodiaq;1289490;Lucembursko;18791;2020;Automat;176;Diesel;1;0;0;1;0;0;0;0
+Skoda Kamiq 1.5 TSI DSG Style 110 kW;Kamiq;587990;Francie;22522;2019;Automat;110;Benzín;1;1;0;0;0;0;0;0
+Skoda Enyaq iV 80 150 kW;Enyaq iV;1318490;Německo;1000;2021;Automat;150;Elektřina;1;0;0;0;1;0;0;0
+Skoda Karoq 1.5 TSI ACT DSG 110 kW;Karoq;752490;Německo;28195;2021;Automat;110;Benzín;1;1;0;0;0;0;0;0
+Skoda Karoq 1.5 TSI ACT DSG Style 110 kW;Karoq;793990;Německo;1001;2022;Automat;110;Benzín;1;1;0;0;0;0;0;0
+Skoda Karoq 2.0 TDI SCR 4x4 DSG Style 140 kW;Karoq;804990;Švédsko;30000;2020;Automat;140;Diesel;1;0;0;1;0;0;0;0
+Skoda Superb 1.8 TSI Ambition 118 kW;Superb;371990;Německo;80316;2015;Manuál;118;Benzín;0;1;0;0;0;0;0;0
+Skoda Octavia 1.5 TSI ACT 110 kW;Octavia;685990;Německo;25449;2021;Manuál;110;Benzín;0;1;0;0;0;0;0;0
+Skoda Kodiaq 2.0 TSI ACT 4x4 DSG 140 kW;Kodiaq;1010490;Německo;27224;2021;Automat;140;Benzín;1;1;0;0;0;0;0;0
+Skoda Scala 1.0 TSI Ambition 85 kW;Scala;420490;Španělsko;28000;2020;Manuál;85;Benzín;0;1;0;0;0;0;0;0
+Skoda Karoq 1.6 TDI SCR DSG 85 kW;Karoq;458490;Francie;118500;2019;Automat;85;Diesel;1;0;0;1;0;0;0;0
+Skoda Scala 1.0 TSI DSG Ambition 81 kW;Scala;509490;Španělsko;13666;2021;Automat;81;Benzín;1;1;0;0;0;0;0;0
+Skoda Rapid 66 kW;Rapid;244490;Polsko;134643;2017;Manuál;66;Diesel;0;0;0;1;0;0;0;0
+Skoda Enyaq iV 60 Sportline 132 kW;Enyaq iV;1119490;Francie;5000;2021;Automat;132;Elektřina;1;0;0;0;1;0;0;0
+Skoda Kodiaq 2.0 4x4 DSG RS 176 kW;Kodiaq;1233490;Belgie;28800;2020;Automat;176;Diesel;1;0;0;1;0;0;0;0
+Skoda Enyaq iV 80 150 kW;Enyaq iV;1175490;Francie;1000;2021;Automat;150;Elektřina;1;0;0;0;1;0;0;0
+Skoda Karoq 1.0 TSI Ambition 85 kW;Karoq;465490;Švédsko;44660;2018;Manuál;85;Benzín;0;1;0;0;0;0;0;0
+Skoda Scala 110 kW;Scala;526490;Polsko;8005;2021;Manuál;110;Benzín;0;1;0;0;0;0;0;0
+Skoda Fabia 1.0 TSI 70 kW;Fabia;384990;Francie;18379;2021;Manuál;70;Benzín;0;1;0;0;0;0;0;0
+Skoda Citigo 1.0 MPI Tec 44 kW;Citigo;214490;Francie;64094;2019;Manuál;44;Benzín;0;1;0;0;0;0;0;0
+Skoda Kodiaq 180 kW;Kodiaq;1396490;Německo;2000;2021;Automat;180;Benzín;1;1;0;0;0;0;0;0
+Skoda Yeti 1.2 TSI Ambition 77 kW;Yeti;213490;Německo;106000;2013;Manuál;77;Benzín;0;1;0;0;0;0;0;0
+Skoda Karoq 1.0 TSI Ambition 85 kW;Karoq;472490;Švédsko;34890;2018;Manuál;85;Benzín;0;1;0;0;0;0;0;0
+Skoda Kodiaq 147 kW;Kodiaq;1085490;Německo;13990;2021;Automat;147;Diesel;1;0;0;1;0;0;0;0
+Skoda Karoq 1.0 TSI Ambition 85 kW;Karoq;448490;Francie;59345;2018;Manuál;85;Benzín;0;1;0;0;0;0;0;0
+Skoda Kodiaq 2.0 TDI DSG Ambition 110 kW;Kodiaq;754990;Španělsko;17583;2019;Automat;110;Diesel;1;0;0;1;0;0;0;0
+Skoda Scala Style 110 kW;Scala;591990;Německo;9600;2021;Manuál;110;Benzín;0;1;0;0;0;0;0;0
+Skoda Enyaq iV 80 153 kW;Enyaq iV;1338490;Švédsko;9270;2021;Automat;153;Elektřina;1;0;0;0;1;0;0;0
+Skoda Octavia 1.2 TSI 63 kW;Octavia;290990;Německo;54000;2017;Manuál;63;Benzín;0;1;0;0;0;0;0;0
+Skoda Scala 1.0 TSI DSG 85 kW;Scala;460990;Španělsko;17466;2021;Automat;85;Benzín;1;1;0;0;0;0;0;0
+Skoda Kodiaq 2.0 TSI ACT 4x4 DSG 140 kW;Kodiaq;1005490;Německo;8307;2021;Automat;140;Benzín;1;1;0;0;0;0;0;0
