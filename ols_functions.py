@@ -7,3 +7,4 @@ def simplemodel(df):
 def modelparameters(df):
     result = sm.OLS(df['price'], sm.add_constant(df.loc[:,df.columns != 'price'])).fit()
     return result.params
+    
